@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>第一篇博客</title>
-      <link href="/2020/03/01/first/"/>
-      <url>/2020/03/01/first/</url>
-      
-        <content type="html"><![CDATA[<p>博客主要记录一些考研做题经历、程序设计以及各种技术和非技术的相关内容。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>第一篇博客</title>
+    <url>/2020/03/01/first/</url>
+    <content><![CDATA[<p>博客主要记录一些考研做题经历、程序设计以及各种技术和非技术的相关内容。</p>
+]]></content>
+  </entry>
 </search>
